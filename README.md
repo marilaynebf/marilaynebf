@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d9ff&height=180&section=header&text=MARILAYNE%20BATISTA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TECHNICAL%20IN%20INFORMATION%20TECHNOLOGY&descAlignY=58&descSize=16" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Initializing+MarilayneBF...;Welcome+to+my+digital+space.;Python+%7C+JavaScript+%7C+Technology;Building%2C+learning+and+exploring+the+future.;System+online+%E2%9C%93" alt="Typing Animation"/>
 
-""Profile Views" (https://komarev.com/ghpvc/?username=marilaynebf&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)" (https://github.com/marilaynebf)
 
 </div>
 
@@ -14,12 +13,12 @@
 │                                                             │
 │  NAME       : Marilayne Batista                             │
 │  USERNAME   : @marilaynebf                                  │
-│  AREA       : Information Technology                         │
-│  EDUCATION  : Técnico em Informática                         │
+│  AREA       : Information Technology                        │
+│  EDUCATION  : Técnico em Informática                        │
 │  INSTITUTION: IEMA - IP Balsas                              │
 │                                                             │
-│  STATUS     : Learning & Building                            │
-│  FOCUS      : Programming • Technology • Cybersecurity       │
+│  STATUS     : Learning & Building                           │
+│  FOCUS      : Programming • Technology • Cybersecurity      │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 
@@ -56,8 +55,6 @@ Tool| Purpose
 
 CURRENT MISSION
 
-marilayne@github:~$ ./current_goals.sh
-
 [■■■■■■■■■■░░░░░░░░░░░] 50%  Técnico em Informática
 [■■■■■■■■■■■■■■░░░░░░░]  70%  Python
 [■■■■■■■■■■■■░░░░░░░░░]  60%  JavaScript
@@ -66,11 +63,12 @@ marilayne@github:~$ ./current_goals.sh
 [■■■■■■░░░░░░░░░░░░░░░]  30%  Novos Projetos
 
  STATUS: ONLINE
-MODE: LEARNING
+ MODE: LEARNING
  NEXT_OBJECTIVE: BUILD SOMETHING GREAT
 
 
-<div align="center">╔══════════════════════════════════════════════╗
+<div align="center">
+╔══════════════════════════════════════════════╗
 ║                                              ║
 ║     "Learning today. Building tomorrow."     ║
 ║                                              ║
