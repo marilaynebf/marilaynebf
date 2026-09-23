@@ -19,7 +19,7 @@
 │  STATUS     : Learning & Building                           │
 │  FOCUS      : Programming • Technology • Cybersecurity      │
 │                                                             │
-└─────────────────────────────────────────────────────────────┘
+
 
 Sou Marilayne Batista, em formação do  técnico em Informática pelo Instituto Estadual de Ciência, Tecnologia e Educação do Maranhão (IEMA) — IP Balsas.
 
@@ -73,12 +73,11 @@ CURRENT MISSION
 
 
 <div align="center">
-╔══════════════════════════════════════════════╗
+
 ║                                              ║
 ║     "Learning today. Building tomorrow."     ║
 ║                                              ║
 ║             SYSTEM STATUS: ONLINE            ║
 ║                                              ║
-╚══════════════════════════════════════════════╝
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:161b22,100:0d1117&height=100&section=footer"/></div>
