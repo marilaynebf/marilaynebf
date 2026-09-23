@@ -8,8 +8,7 @@
  ABOUT ME
 
 
-│                    SYSTEM INFORMATION                       │
-├─────────────────────────────────────────────────────────────┤
+│                    SYSTEM INFORMATION                       
 │                                                             │
 │  NAME       : Marilayne Batista                             │
 │  USERNAME   : @marilaynebf                                       │
