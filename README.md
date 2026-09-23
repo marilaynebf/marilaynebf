@@ -5,7 +5,7 @@
 
 </div>
 
- ABOUT ME 
+*ABOUT ME 
  
 │  NAME       : Marilayne Batista                             │
 │  USERNAME   : @marilaynebf                                  │
