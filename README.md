@@ -5,12 +5,10 @@
 
 </div>
 
- ABOUT ME
-
-
- *                  SYSTEM INFORMATION                        *
+ ABOUT ME 
+ 
 │  NAME       : Marilayne Batista                             │
-│  USERNAME   : @marilaynebf                                       │
+│  USERNAME   : @marilaynebf                                  │
 │  AREA       : Information Technology                        │
 │  EDUCATION  : Técnico em Informática                        │
 │  INSTITUTION: IEMA - IP Balsas                              │
