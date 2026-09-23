@@ -31,11 +31,17 @@ Atualmente, estou aprimorando meus conhecimentos em Python e JavaScript, enquant
 
 TECH STACK
 
-Languages
+**Languages**
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" /></div>Currently Exploring
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,github,vscode,css&theme=dark" />
+</div>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" /></div>---
+**Currently Exploring**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" />
+</div>
 
 TOOLKIT
 
