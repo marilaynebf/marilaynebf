@@ -8,7 +8,7 @@
  ABOUT ME
 
 
-│                    SYSTEM INFORMATION                       
+                   SYSTEM INFORMATION                       
 │  NAME       : Marilayne Batista                             │
 │  USERNAME   : @marilaynebf                                       │
 │  AREA       : Information Technology                        │
@@ -27,7 +27,6 @@ Atualmente, estou aprimorando meus conhecimentos em Python e JavaScript, enquant
 
 TECH STACK
 
-**Languages**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,github,vscode,css&theme=dark" />
