@@ -9,7 +9,6 @@
 
 
 │                    SYSTEM INFORMATION                       
-│                                                             │
 │  NAME       : Marilayne Batista                             │
 │  USERNAME   : @marilaynebf                                       │
 │  AREA       : Information Technology                        │
